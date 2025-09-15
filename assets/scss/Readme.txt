@@ -1,2 +1,2 @@
 The .scss (Sass) files are only available in the pro version.
-You can buy it from: https://bootstrapmade.com/blogy-bootstrap-blog-template/
+You can buy it from: https://bootstrapmade.com/baker-free-onepage-bootstrap-theme/
